@@ -1,141 +1,59 @@
-# Hardware - disk, monitor, keyboard, mouse, motherboard, ram, cpu, video cord 
-
-# Operating system     
-
-       - drivers
-
-       - system calls "libraries"
-
-       - kernel(cpu time-processed/calculated, memory allocation, process,additional resources)
-
-       - micro kernels and monolithic kernels
-
-       - kernel moduals
-
-Application
-
-User Interface
-
-
-
-Unix(monopoly)
-
-    -Bell Labs
-
-    -Berekely
-
-    -copywrite
-
-    -BSD (think academia)
-
-    
-
-1991 Linus  
-
-    -uses minix
-
-    -turns into linux (version of unix not BSD)
-
-    -GNU (richard Stalman) (grep, top, is, cat) (commitment to open source)
-
-    
-
-BSD kernel is different than Linux kernel
-
-
-
-Debian:
-
-Ubuntu (owned by Canonicol):
-
--extremely user friendly for linux
-
--militantly free tech support
-
-
-
-Red Hat (secure but boring like Debian) <----------------> licences
-
--Centos
-
--Fedora (similar to Ubuntu as it is unstable but more cutting edge)
-
--Suse (similar to Red Hat)(desktop and server integration and sits somewhere between ubuntu and redhat) ----> Open Suse
-
-
-
-BSD
-
--free BSD released in 1993
-
--net BSD and OPEN BSD
-
--security centric
-
--BSD "jails"
-
--chrooting
-
-
-
-linux
-
--android
-
-
-
-BSD
-
--OSx
-
-
-
-Windows and Canonicol(ubuntu) integration
-
--Bash 
-
--GNU tools
-
--Sygwin tools
-
-
-
-
-
-Zypper  install ___(Suse and Open Suse) RPM
-
-apt-get install ___(Debian and Ubuntu) .DEB
-
-yum install _______(Red Hat, Fedora, and Centos) RPM
-
-^used to interact with packages and re-pos 
-
-(package managers)
-
-
-
-Embedded Systems
-
--android (smart phone)
-
--iOS(smartphone/tablet/watch)
-
--rumba
-
--calculators
-
--surveillance cameras
-
--nest thermostats
-
--security systems
-
-
-
-
-
-
-
-
-
-https://source.android.com/ for open source android 3 linux device assignment
+ Hardware contains the following:
+  Motherboard
+  Ram CPU
+  video Card
+  Disk
+  Monitor
+  Keyboard
+  Mouse
+
+ Operating system contains:
+ Drivers
+ System Calls
+"Libraries"
+
+ OS Kernel interacts with:
+  CPU TOME
+  Processed/calculator
+  memory allocation
+  procces
+  additonaly recources
+                               
+                                
+ UNIX - bell labs - berkly - copywrite - BSD
+ 
+ Linux was created by  Linus Stalman in 1991. 
+ 
+ Ubuntu is a form/flavor of Lenux that is geared toward first time users and computer buyers. The most common flavor.
+ 
+ Debian (company creating linux) believe in Militantly free tech support. 
+ 
+ Suse generally works on desktop and servers -- to get this you can open source suse.
+ 
+    BSD facts:
+    Free BSD
+    created in 1993
+    Net BSD
+    OPEN BSD
+      They are very security centric
+      They set up BSD "Jails"- Precursor to full virtual machines- allows you to lock down resources and fully.
+      Chrooting- Isolates
+      
+      Android uses Linux kernal. 
+      OSX uses BSD
+      
+                                                      Packaging
+      Zyper - suse/ open source                       RPM
+      apt-get -Debian and Ubuntu                      .DEB
+      yum- Red Hot, Fedora, and Centos                RPM
+      
+      Examples of embedded systems
+      Android (smart phones)
+      IOS (smart phone/ tablet/ watch
+      ROCU
+      Calculators
+      Rumba
+      Servelance cameras 
+      Thermostat
+      Home Security
+      SanFranciscco Transportation
