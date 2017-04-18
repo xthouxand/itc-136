@@ -31,9 +31,9 @@
     created in 1993
     Net BSD
     OPEN BSD
-      They are very security centric
-      They set up BSD "Jails"- Precursor to full virtual machines- allows you to lock down resources and fully.
-      Chrooting- Isolates
+      -They are very security centric
+      -They set up BSD "Jails"- Precursor to full virtual machines- allows you to lock down resources and fully.
+      -Chrooting- Isolates
       
       Android uses Linux kernal. 
       OSX uses BSD
