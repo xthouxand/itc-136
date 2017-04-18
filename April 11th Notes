@@ -1,23 +1,23 @@
  Hardware contains the following:
-  Motherboard
-  Ram CPU
-  video Card
-  Disk
-  Monitor
-  Keyboard
-  Mouse
+  -Motherboard
+  -Ram CPU
+  -video Card
+  -Disk
+  -Monitor
+  -Keyboard
+  -Mouse
 
  Operating system contains:
- Drivers
- System Calls
-"Libraries"
+ -Drivers
+ -System Calls
+-"Libraries"
 
  OS Kernel interacts with:
-  CPU TOME
-  Processed/calculator
-  memory allocation
-  procces
-  additonaly recources
+  -CPU TOME
+  -Processed/calculator
+  -memory allocation
+  -procces
+  -additonaly recources
                                
   FUN FACTS***                              
  # UNIX # bell labs - berkly - copywrite - BSD 
