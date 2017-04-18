@@ -43,13 +43,13 @@
       apt-get -Debian and Ubuntu                      .DEB
       yum- Red Hot, Fedora, and Centos                RPM
       
-      Examples of embedded systems
-      Android (smart phones)
-      IOS (smart phone/ tablet/ watch
-      ROCU
-      Calculators
-      Rumba
-      Servelance cameras 
-      Thermostat
-      Home Security
-      SanFranciscco Transportation
+      Embedded systems w/ linux:
+      -Android (smart phones)
+      -IOS (smart phone/ tablet/ watch
+      -ROKU
+      -Calculators
+      -Rumba
+      -Servelance cameras 
+      -Thermostat
+      -Home Security
+      -SanFranciscco Transportation
