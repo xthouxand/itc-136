@@ -1,0 +1,34 @@
+    1  whoami
+    2  ps
+    3  ps aux
+    4  ps aux | more
+    5  kill 2127 
+    6  ps aux | grep terminal
+    7  ps aux | grepterminal
+    8  cls
+    9  top
+   10  lsof
+   11  LSOF | more
+   12  lsof | more
+   13  sudo su
+   14  cd ~
+   15  cd Desktop/
+   16  echo "test" >> test.text
+   17  echo "test"
+   18  vim
+   19  git
+   20  cd ..
+   21  git clone https://github.com/xthouxand/itc-136.git
+   22  sudo su
+   23  cd ~
+   24  git clone https://github.com/xthouxand/itc-136.git
+   25  ls -l
+   26  cd itc-136/
+   27  ls -la
+   28  cd .git
+   29  ls -la
+   30  cd ..
+   31  git config --global user.email "ernestallen@gmail.com"
+   32  git config --global user.name "xthouxand"
+   33  ls -l
+   34  history >> firstconfig.history
