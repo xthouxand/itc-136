@@ -1,0 +1,61 @@
+NOETS FOR 5/18/2017
+
+How do i get to command mode: <ESC>
+
+:
+
+:wq (write and quit)
+
+Particular line number
+:34
+
+Line:
+go to end of line $
+go to start of line 0
+
+File:
+Go to top of file gg
+Go to bottom of file :$
+
+delete line:
+dd
+
+undo:
+u
+
+working on multuple files at once: 
+plit filename
+
+*to move between windows ctl-w-w or ctl-w ctl-w
+
+:hide
+gets rid of window (you'll be prompted to save changes before....)
+
+Search
+/whatyou' researchingfor
+(press n to go to the next match)
+
+Modes:
+i for insert mode (so i can type things)
+escape to get back to command mode
+
+writing and exiting
+:wq! write and quit no matter what. (! forces the command)
+:w writes the file without quiting
+:wq writes and quites but if there is an error it will stop
+:q! quits without writing the file.
+
+
+
+Search and replace (the most obtuse of cim commands)
+
+Example
+:%s/1/one/g
+
+: (colon) puts us into command mode
+%s tells us to search and replace through the entire file
+1 is the thing that we are searching for
+one is the thing we are replacing /1 with
+/g means to do it globally.
+
+* this command will turn 111 into oneoneone ot 102 into one02
